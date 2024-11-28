@@ -59,7 +59,7 @@
 [![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKaudewar&theme=green)](https://github.com/ShubhamKaudewar/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShubhamKaudewar&theme=green-nur)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ShubhamKaudewar)](https://git.io/streak-stats)
+
 ## Spotify Playing 🎧
 
 
